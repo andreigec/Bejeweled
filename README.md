@@ -1,6 +1,6 @@
 Bejeweled
 =========
-A C++ console variant of bejeweled I coded at university for a project.
+A C++ console variant of bejeweled I coded at university for a game project.
 
 Images
 ======
